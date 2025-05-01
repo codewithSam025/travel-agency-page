@@ -11,7 +11,7 @@ A beginner-friendly static website for a fictional New York City travel agency, 
 ![Screenshot of the homepage](screenshot.png) 
 
 ## 🚀 Live Site
-[Visit Website]([https://codewithSam025.github.io/nyc-travel-agency])
+[Visit Website](https://codewithSam025.github.io/nyc-travel-agency)
 
 ## 🛠️ Tech Used
 - HTML
