@@ -5,11 +5,10 @@ A beginner-friendly static website for a fictional New York City travel agency, 
 ## 🌟 Features
 - Travel packages description
 - Tour cards (Times Square,Manhattan,Brooklyn Bridge etc.)
-- Contact form
 - Responsive layout (basic)
 
 ## 📸 Preview
-![Screenshot of the homepage](screenshot.png) *(Add your own screenshot here)*
+![Screenshot of the homepage](screenshot.png) 
 
 ## 🚀 Live Site
 [Visit Website](https://codewithSam025.github.io/nyc-travel-agency)
